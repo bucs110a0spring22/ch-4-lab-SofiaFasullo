@@ -8,18 +8,18 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+My program defines 3 functions, drawSineCurve(myturtle=None) which draws a sine curve from -360 degrees to 360 degrees across the x,y axis, setupWindow(mywindow=None) which zooms in the window to the sine curve bounds, and setupAxis(myturtle=None) which has my turtle draw a line along the x and y axes. Then these functions are called in a larger function, main().
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: < 3 >
 
-Grace days remaining: < # >/5
+Grace days remaining: 1/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+None
 
 ## REFERENCES:
- < List any outside resources used >
+(https://docs.python.org/3.8/library/turtle.html#turtle.setworldcoordinates)
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+None
